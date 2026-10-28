@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MrSpeanix
-- 👀 I’m interested in playing games and coding
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate with game developers 
-- 📫 gmail id {speanixgaming@gmail.com}
+
